@@ -1,9 +1,8 @@
 # MyUtil Wiki
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![](https://jitpack.io/v/tsy12321/MyUtil.svg)](https://jitpack.io/#tsy12321/MyUtil)
 
-> 该模块对通用的工具类进行封装,方便移植到其他项目直接使用
+> 该模块对通用的工具类进行封装, 建议使用submodule的方式进行引用
 
 ## 目录
 
