@@ -425,6 +425,17 @@
  */
 ```
 
+### 10.5 void copyFile(String oldPath, String newPath)
+
+```java
+/**
+ * 复制单个文件
+ * @param oldPath String 原文件路径 如：c:/fqf.txt
+ * @param newPath String 复制后路径 如：f:/fqf.txt
+ * @return boolean
+ */
+```
+
 ## 11 ResourceUtils
 
 > 资源获取方法
